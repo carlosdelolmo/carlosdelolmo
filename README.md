@@ -3,7 +3,7 @@
 
 
 ##  🤖 About Me
-I'm a Computer Engineer Student in Jaume I University...
+I'm a Computer Engineer Student at Jaume I University...
 
 
 ## 🦾 My stats
