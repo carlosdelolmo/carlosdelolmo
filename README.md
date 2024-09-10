@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="center">📚 Estudiante de Ingeniería de Computadores 🧮 en la Universidad Jaime I 📍</h4>
+<h4 align="center">📚 Ingeniero de Computadores 🧮 por la Universidad Jaime I 📍</h4>
 
 ###
 
